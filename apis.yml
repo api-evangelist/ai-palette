@@ -1,8 +1,30 @@
 aid: ai-palette
 name: AI Palette
-description: AI Palette is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  AI Palette is an AI-first consumer-insights and product-innovation platform for
+  the Consumer Packaged Goods (CPG) industry. Founded in Singapore in 2018 and
+  later acquired by GlobalData, it aggregates more than 61 billion data points
+  across 24 countries and 18 languages to help food, beverage, and personal-care
+  brands discover emerging trends, generate and screen new product concepts, and
+  bring winning products to market faster. Its platform spans the Foresight Engine
+  for real-time trend discovery, Concept Genie for generative-AI concept creation,
+  Screen Winner for concept validation, and the FoodGPT / Arya agentic co-pilot.
+  Customers include Nestle, Mondelez, Kellogg, Diageo, Cargill, ADM, and Symrise.
+  This is an enterprise SaaS platform accessed by license; no public developer API,
+  SDK, or specification is published.
 url: https://raw.githubusercontent.com/api-evangelist/ai-palette/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.aipalette.com/wp-content/uploads/2023/09/ezgif-3-b628c3d015.webp
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -14,6 +36,15 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Consumer Insights
+- Consumer Packaged Goods
+- Food and Beverage
+- Artificial Intelligence
+- Market Research
+- Product Innovation
+- Trend Analysis
+- Generative AI
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +53,29 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://aipalette.com
+  url: https://www.aipalette.com
+- type: About
+  url: https://www.aipalette.com/about-us/
+- type: Login
+  url: https://platform.aipalette.com/
+- type: SignUp
+  url: https://www.aipalette.com/schedule-a-demo/
+- type: Blog
+  url: https://www.aipalette.com/resources/blogs/
+- type: Support
+  url: https://www.aipalette.com/contact-ai-palette/
+- type: PrivacyPolicy
+  url: https://www.globaldata.com/privacy-policy/
+- type: Press
+  url: https://www.aipalette.com/resources/press-release/
+- type: GitHubOrganization
+  url: https://github.com/AIPalette
+- type: LLMsTxt
+  url: llms/ai-palette-llms.txt
+- type: DomainSecurity
+  url: security/ai-palette-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,26 @@
+# AI Palette
+
+> AI Palette is an AI-first consumer-insights and product-innovation platform for the Consumer Packaged Goods (CPG) industry, aggregating 61 billion data points across 24 countries and 18 languages to help food, beverage, and personal-care brands discover emerging trends, generate and screen new product concepts, and accelerate launches. Founded in Singapore in 2018; acquired by GlobalData. This is an enterprise SaaS platform accessed by license — there is no public developer API, SDK, or specification.
+
+## Products
+- [Foresight Engine](https://www.aipalette.com/platform/): Real-time trend discovery across e-commerce, menus, recipes, social media, and search in 18 languages / 24 countries.
+- [Concept Genie](https://www.aipalette.com/platform/): Generative-AI creation of new product and marketing concepts from Foresight Engine data.
+- [Screen Winner](https://www.aipalette.com/platform/): Virtual validation and screening of product concepts for a category or market.
+- [FoodGPT / Arya](https://www.aipalette.com/platform/): An F&B-trained agentic AI co-pilot for the end-to-end innovation workflow, supporting integration of a customer's own data sources.
+
+## Platform
+- [Platform overview](https://www.aipalette.com/platform/overview/)
+- [Application login](https://platform.aipalette.com/)
+- [Schedule a demo](https://www.aipalette.com/schedule-a-demo/)
+
+## Company
+- [About AI Palette](https://www.aipalette.com/about-us/)
+- [Blog & resources](https://www.aipalette.com/resources/blogs/)
+- [Press releases](https://www.aipalette.com/resources/press-release/)
+- [Careers](https://www.aipalette.com/join-us/)
+- [Contact](https://www.aipalette.com/contact-ai-palette/)
+- [Privacy policy](https://www.globaldata.com/privacy-policy/)
+
+## Notes
+- No public API, OpenAPI/AsyncAPI specification, SDK, CLI, MCP server, or `/.well-known/` discovery surface is published (verified 2026-07-17).
+- The GitHub organization https://github.com/AIPalette exists but has no public repositories.
